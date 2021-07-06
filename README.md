@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning **Data Science and ML**
+- 🌱 I’m currently learning **Data Science & ML**
 - 📫 How to reach me **panchal.sujata16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
